@@ -8,13 +8,13 @@ NOTE: This project was created nearly two years ago.
 
 Classification Models Used: 
 <list> 
-- Logistic Regression Classigication
+- Logistic Regression Classifier
 - Stochastic Gradient Descent Classification
 - Random Forest Classification
 - AdaBoost Classifier
-  - Gradient Boosting Classifier
-  - Gaussian Process Classifier
-  - Multi-Layer Perceptron Classifier
+- Gradient Boosting Classifier
+- Gaussian Process Classifier
+- Multi-Layer Perceptron Classifier
 </list>
 
 ![image](https://user-images.githubusercontent.com/63440709/179782226-9f842428-6328-4220-8136-b3797ecedbc2.png)
