@@ -6,6 +6,4 @@ In Order to Run App:
 
 NOTE: This project was created nearly two years ago.
 
-Stock Market Dashboard With Various Features: 
-![video] (Untitled.mp4)
-
+***Live Demonstration: Untitled.mp4***
