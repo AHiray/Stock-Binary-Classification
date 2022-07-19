@@ -1,5 +1,5 @@
 # Stock-Binary-Classification
-IB CS HL IA 2019
+IB Computer Science Higher Level Internal Assesment 2019
 
 In Order to Run App: 
 <code> streamlit run app.py </code>
